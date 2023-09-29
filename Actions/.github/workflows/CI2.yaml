@@ -1,4 +1,4 @@
-name: github.workflow
+name: .github.workflows
 
 on: [push]
 
